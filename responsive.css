@@ -1,0 +1,27 @@
+#img-2,#img-3{
+    display: none;
+}
+#dbl-wrapper{
+    flex-direction: column;
+}
+#explore{
+    flex-direction: column;
+}
+#team-pts{
+    overflow: hidden;
+}
+#intro::before{
+    height: 500px;
+}
+#navbar{
+    flex-direction: column;
+}
+#navbar ul{
+    flex-direction: column;
+}
+#top-scores{
+    overflow: hidden !important;
+}
+#abt-cont{
+    padding-left: 20px;
+}
