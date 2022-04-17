@@ -1,0 +1,18 @@
+#navbar ul{
+    right: 0px;
+    padding-left: 0px;
+}
+#navbar li a{
+    padding: 0px 0px;
+}
+#img-1 img {
+    width: 200px;
+}
+#abt-wrapper {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#slider-container{
+    padding: 82px 20px;
+}
