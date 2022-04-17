@@ -1,0 +1,22 @@
+#navbar ul{
+    display: none;
+}
+.expcont{
+    padding: 0px 2px;
+    margin: 12px 0px;
+}
+.expcont .btn {
+    margin-left: 53px;
+}
+#exp-wrapp{
+    overflow: hidden;
+}
+#slider-container{
+    padding: 82px 0px;
+}
+#intro h2{
+    font-size: 3rem;
+}
+#about h2{
+    padding-left: 9px;
+}
